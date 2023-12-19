@@ -9,7 +9,7 @@ from discord.ext import commands
 import requests
 
 
-token = "MTE4NjYzOTYzMjk5ODM0MjY1Nw.GxKpUl.Gs6-c6mTRBWk_4ao2Hio4wLP7c3Pk5n3R79k-A"
+token = "inserisci il tuo token"
 
 #configuriamo intents
 intents = discord.Intents.default()
